@@ -20,6 +20,9 @@ bunx jsr add @sajanv/string-case-converter
 // pnpm
 pnpm dlx jsr add @sajanv/string-case-converter
 
+// deno
+deno add jsr:@sajanv/string-case-converter
+
 ```
 
 ## Usage
